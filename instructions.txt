@@ -1,0 +1,9 @@
+On one terminal : 
+java Boot
+l Shell
+CmdServer &
+
+On other terminal:
+java Boot
+l Shell
+CmdClient 5000
